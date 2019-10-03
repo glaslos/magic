@@ -1,0 +1,4 @@
+bitbucket.org/taruti/mimemagic v0.0.0-20120314151349-e5179c80a024 h1:ZVEtxUBovI1CMcmmbJTiXty8PIuiszcsREpGgfPRTFk=
+bitbucket.org/taruti/mimemagic v0.0.0-20120314151349-e5179c80a024/go.mod h1:SK3ZibXcOAUXNzKDFwVbcimuU+Sw2GCdxZHtZ+yyZrA=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
